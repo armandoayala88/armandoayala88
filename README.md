@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @armandoayala88
 - 👀 I’m interested in innovation within industrial design, manufacturing, and software engineering
-- 🌱 I’m currently learning software engineering and industrial design
-- 💞️ I’m looking to collaborate on ... coursera Java and Software Engineering course
+- 🌱 I’m currently learning Java and pursuing masters in industrial design
 - 📫 How to reach me ... amayala88@gmail.com
 
 <!---
